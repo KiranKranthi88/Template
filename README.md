@@ -23,3 +23,7 @@ https://github.com/ag-grid/ag-grid/issues/1228
 		values: ['English', 'Spanish']
 	}
 }
+
+ng build --prod --base-href /whatever/
+
+ng build --prod --base-href https://designcourse.github.io/my-colproj/
