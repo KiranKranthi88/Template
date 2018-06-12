@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/38743423/inject-angularjs-service-into-angular
